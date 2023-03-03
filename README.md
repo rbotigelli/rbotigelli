@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rbotigelli
 - 👀 I’m interested in bulk RNAseq and scRNAseq analysis
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on the scientific communite
 - 📫 How to reach me rcbotigelli@ucdavis.edu
 
 <!---
